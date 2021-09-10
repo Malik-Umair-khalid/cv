@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.main{
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+.main h1{
+  background-color: #282c34;
+  color: wheat;
+}
+.flex{
+  display: flex;
+  justify-content: space-between;
+}
+ul li{
+  list-style-type: none;
+}
